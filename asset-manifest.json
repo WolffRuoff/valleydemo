@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/valleydemo/static/css/main.201db33e.chunk.css",
+    "main.js": "/valleydemo/static/js/main.e30dc272.chunk.js",
+    "main.js.map": "/valleydemo/static/js/main.e30dc272.chunk.js.map",
+    "runtime-main.js": "/valleydemo/static/js/runtime-main.40737fdf.js",
+    "runtime-main.js.map": "/valleydemo/static/js/runtime-main.40737fdf.js.map",
+    "static/js/2.1fcb7c8c.chunk.js": "/valleydemo/static/js/2.1fcb7c8c.chunk.js",
+    "static/js/2.1fcb7c8c.chunk.js.map": "/valleydemo/static/js/2.1fcb7c8c.chunk.js.map",
+    "index.html": "/valleydemo/index.html",
+    "precache-manifest.e8582c5cb9c66dfae4a766beb5fec961.js": "/valleydemo/precache-manifest.e8582c5cb9c66dfae4a766beb5fec961.js",
+    "service-worker.js": "/valleydemo/service-worker.js",
+    "static/css/main.201db33e.chunk.css.map": "/valleydemo/static/css/main.201db33e.chunk.css.map",
+    "static/js/2.1fcb7c8c.chunk.js.LICENSE.txt": "/valleydemo/static/js/2.1fcb7c8c.chunk.js.LICENSE.txt",
+    "static/media/mock-up.png": "/valleydemo/static/media/mock-up.1384824c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40737fdf.js",
+    "static/js/2.1fcb7c8c.chunk.js",
+    "static/css/main.201db33e.chunk.css",
+    "static/js/main.e30dc272.chunk.js"
+  ]
+}
