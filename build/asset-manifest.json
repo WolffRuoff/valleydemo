@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/valleydemo/static/css/main.201db33e.chunk.css",
-    "main.js": "/valleydemo/static/js/main.e30dc272.chunk.js",
-    "main.js.map": "/valleydemo/static/js/main.e30dc272.chunk.js.map",
+    "main.css": "/valleydemo/static/css/main.2ff9d747.chunk.css",
+    "main.js": "/valleydemo/static/js/main.61c68d2d.chunk.js",
+    "main.js.map": "/valleydemo/static/js/main.61c68d2d.chunk.js.map",
     "runtime-main.js": "/valleydemo/static/js/runtime-main.40737fdf.js",
     "runtime-main.js.map": "/valleydemo/static/js/runtime-main.40737fdf.js.map",
     "static/js/2.1fcb7c8c.chunk.js": "/valleydemo/static/js/2.1fcb7c8c.chunk.js",
     "static/js/2.1fcb7c8c.chunk.js.map": "/valleydemo/static/js/2.1fcb7c8c.chunk.js.map",
     "index.html": "/valleydemo/index.html",
-    "precache-manifest.e8582c5cb9c66dfae4a766beb5fec961.js": "/valleydemo/precache-manifest.e8582c5cb9c66dfae4a766beb5fec961.js",
+    "precache-manifest.5038197ddcbcd7ca8e15f0ba8a51edb5.js": "/valleydemo/precache-manifest.5038197ddcbcd7ca8e15f0ba8a51edb5.js",
     "service-worker.js": "/valleydemo/service-worker.js",
-    "static/css/main.201db33e.chunk.css.map": "/valleydemo/static/css/main.201db33e.chunk.css.map",
+    "static/css/main.2ff9d747.chunk.css.map": "/valleydemo/static/css/main.2ff9d747.chunk.css.map",
     "static/js/2.1fcb7c8c.chunk.js.LICENSE.txt": "/valleydemo/static/js/2.1fcb7c8c.chunk.js.LICENSE.txt",
-    "static/media/mock-up.png": "/valleydemo/static/media/mock-up.1384824c.png"
+    "static/media/mock-up.png": "/valleydemo/static/media/mock-up.8a7bf446.png"
   },
   "entrypoints": [
     "static/js/runtime-main.40737fdf.js",
     "static/js/2.1fcb7c8c.chunk.js",
-    "static/css/main.201db33e.chunk.css",
-    "static/js/main.e30dc272.chunk.js"
+    "static/css/main.2ff9d747.chunk.css",
+    "static/js/main.61c68d2d.chunk.js"
   ]
 }
